@@ -1,0 +1,29 @@
+body {
+    background: rgb(189, 29, 122);
+    color: black;
+    margin: 0px;
+    font-family: "Pirata One", system-ui;
+}
+
+header {
+    border-bottom: solid 2px rgb(233 126 145);
+    font-size: 50px;
+    padding: 20px;
+}
+
+section {
+    display: flex;   
+    background: '(189, 29 , 122)';
+    padding-bottom: 80px;
+    padding-top: 80px;
+    justify-content: center;
+}
+
+.título-video{
+    margin-right: 5%;
+}
+
+img{
+    height:200px;
+}
+    
